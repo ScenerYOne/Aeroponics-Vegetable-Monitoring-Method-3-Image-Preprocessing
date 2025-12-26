@@ -2,16 +2,43 @@
 
 Image preprocessing pipeline for Task 2 (Variety Identification) using perspective transformation to convert Cam5 top-down views into angled views matching Cam6 perspective.
 
-##  Model Training & Evaluation  
-**Aeroponics Vegetable Monitoring – Model Training (YOLOv8)**
 
-👉 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing](ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing)
+## 🔗 Connected Projects (End-to-End AI Pipeline)
 
-- Multi-dataset integration
-- YOLOv8 training & fine-tuning
-- Automated reporting
-- Model evaluation
+This project is part of a complete AI workflow, covering data preparation, model training, and deployment.
+
+### 1️⃣ Image Preprocessing & Dataset Generation  
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing)
+
+- Perspective Transformation for camera correction  
+- Image standardization  
+- Dataset preparation for YOLO training  
+- Manual labeling workflow  
+
 ---
+
+### 2️⃣ Model Training & Evaluation  
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training)
+
+- Dataset cleaning & normalization  
+- Multi-dataset integration  
+- YOLOv8 model training and fine-tuning  
+- Automated training reports (mAP, Precision, Recall)  
+- ONNX export  
+
+---
+
+### 3️⃣ Model Deployment Platform (This Repository)  
+[ScenerYOne/AI-Model-Deployment-Platform](https://github.com/ScenerYOne/AI-Model-Deployment-Platform)
+
+- Web-based YOLO model testing  
+- FastAPI backend for inference  
+- React frontend for visualization  
+- Real-time detection with bounding boxes and class labels  
+
+---
+
+## 🔁 Full System Workflow
 
 ## 📋 Project Overview
 
