@@ -6,7 +6,7 @@ Image preprocessing pipeline for Task 2 (Variety Identification) using perspecti
 
 This project is part of a complete AI workflow, covering data preparation, model training, and deployment.
 
-### 1️⃣ Image Preprocessing & Dataset Generation  
+### 1️⃣ Image Preprocessing & Dataset Generation (This Repository)  
 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing.git)
 
 - Perspective Transformation for camera correction  
@@ -16,7 +16,7 @@ This project is part of a complete AI workflow, covering data preparation, model
 
 ---
 
-### 2️⃣ Model Training & Evaluation (This Repository)  
+### 2️⃣ Model Training & Evaluation 
 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation)
 
 - Dataset cleaning & normalization  
