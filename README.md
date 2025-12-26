@@ -16,7 +16,7 @@ This project is part of a complete AI workflow, covering data preparation, model
 
 ---
 
-### 2️⃣ Model Training & Evaluation  
+### 2️⃣ Model Training & Evaluation (This Repository)  
 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation)
 
 - Dataset cleaning & normalization  
@@ -27,7 +27,7 @@ This project is part of a complete AI workflow, covering data preparation, model
 
 ---
 
-### 3️⃣ Model Deployment Platform (This Repository)  
+### 3️⃣ Model Deployment Platform 
 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform)
 
 - Web-based YOLO model testing  
