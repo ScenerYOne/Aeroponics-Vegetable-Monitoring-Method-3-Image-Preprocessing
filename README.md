@@ -1,4 +1,4 @@
-# Aeroponics-Vegetable-Monitoring---Method-3-Image-Preprocessing
+# Aeroponics Vegetable Monitoring Image Preprocessing
 
 Image preprocessing pipeline for Task 2 (Variety Identification) using perspective transformation to convert Cam5 top-down views into angled views matching Cam6 perspective.
 
